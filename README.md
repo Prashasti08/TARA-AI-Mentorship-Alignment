@@ -1,2 +1,2 @@
 # TARA-Scalable-genAI-Mentorship
-• Architected an AI mentorship chat bot using prompt testing and behavioral science for graduate students • Critically assessed the effectiveness and potential biases of genAI tools to ensure ethical learning delivery
+• TARA is an AI mentorship chatbot designed to support graduate students through their personal and professional growth. It provides personalized guidance on career planning, skill development, decision-making, and goal setting. Think of it as a smart, on-demand mentor that helps you move forward with clarity and confidence.
