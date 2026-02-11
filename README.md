@@ -5,6 +5,7 @@
 Most AI mentors are **socially blind**. They provide generic, "flat" advice that ignores a user's emotional state, cultural background, and workplace social nuances.
 
 ### 💡 The Solution: Triple-Intelligence (IQ³)
+```mermaid
 graph TD
     User((User Input)) --> Intent[Intent & Sentiment Detection]
     
@@ -24,7 +25,6 @@ graph TD
     
     Nudge --> Response[Final Aligned Response]
     Response --> User
-
 
 I used **I/O Psychology** to build an LLM persona that is aligned across three dimensions:
 * **EQ (Emotional):** Identifies sentiment to mitigate burnout/imposter syndrome.
