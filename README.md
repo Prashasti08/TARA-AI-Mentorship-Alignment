@@ -5,25 +5,21 @@
 Most AI mentors are **socially blind**. They provide generic, "flat" advice that ignores a user's emotional state, cultural background, and workplace social nuances.
 
 ### 💡 The Solution: Triple-Intelligence (IQ³)
+
+'''
 graph TD
-    User((User Input)) --> Intent[Intent & Sentiment Detection]
+    A[User Input] --> B[Intent & Sentiment Detection]
+    B --> C{Triple-Intelligence Layer}
+    C -->|EQ/CQ/SQ Alignment| D{Safety Filter}
     
-    subgraph "Triple-Intelligence Alignment Layer (I/O Psych)"
-        Intent --> EQ[EQ: Emotional Intelligence]
-        Intent --> CQ[CQ: Cultural Intelligence]
-        Intent --> SQ[SQ: Social Intelligence]
-    end
-
-    subgraph "Knowledge Base & Guardrails"
-        EQ & CQ & SQ --> KB[(NYU/Columbia/Resource Database)]
-        KB --> Safety{Safety Filter}
-    end
-
-    Safety -- "Request for Therapy" --> Refusal[Refusal + Professional Referral]
-    Safety -- "Professional Mentorship" --> Nudge[Nudge Theory Engine]
+    D -->|Clinical/Therapy Request| E[Refusal + Mental Health Resources]
+    D -->|Professional Mentorship| F[Nudge Engine]
     
-    Nudge --> Response[Final Aligned Response]
-    Response --> User
+    F --> G[Actionable Aligned Response]
+    E --> H[End User Loop]
+    G --> H
+
+    '''
 
 I used **I/O Psychology** to build an LLM persona that is aligned across three dimensions:
 * **EQ (Emotional):** Identifies sentiment to mitigate burnout/imposter syndrome.
