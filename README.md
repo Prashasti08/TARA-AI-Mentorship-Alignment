@@ -20,8 +20,7 @@ I used **I/O Psychology** to build an LLM persona that is aligned across three d
     
     F --> G[Actionable Aligned Response]
     E --> H[End User Loop]
-    G --> H
-```
+    G --> H```
 
 ---
 
