@@ -1,31 +1,35 @@
-# 🤖 TARA: Aligned GenAI Mentorship
-**Engineering Triple-Intelligence Alignment: Steering LLMs with Emotional, Cultural, and Social IQ**
+# 🤖 TARA: The Socially-Aware AI Mentor
+**Solving "Contextual Failure" in LLMs via Triple-Intelligence Alignment.**
 
-### 🎯 The Challenge
-Generic LLMs often fail in high-stakes professional mentorship because they lack **situational awareness**. They provide "flat" advice that ignores a user's emotional state, cultural background, and the complex social nuances of the U.S. professional landscape.
+### ⚡ The Problem
+Most AI mentors are **socially blind**. They provide the same generic, "flat" advice regardless of a user's emotional state, cultural background, or the nuanced social hierarchies of the workplace.
 
-### 💡 The Solution: Triple-Intelligence Framework
-I developed **TARA** (Transformative AI Resource for Advancement) to solve this **Contextual Failure** problem. By grounding the model in **I/O Psychology**, I engineered a "Triple-Intelligence" alignment layer that ensures the model is emotionally, culturally, and socially intelligent.
+### 💡 The Solution: Triple-Intelligence (IQ³)
+I used **I/O Psychology** as an engineering framework to build an LLM persona that actually "gets it." TARA is aligned across three critical dimensions:
 
-* **Emotional Intelligence (EQ):** Identifies sentiment to proactively address burnout and imposter syndrome.
-    * *Framework: Goleman’s (1995) EQ Model*
-* **Cultural Intelligence (CQ):** Adaptable guidance that respects diverse backgrounds and international student transitions.
-    * *Framework: Hofstede’s (2001) Cultural Dimensions*
-* **Social Intelligence (SQ):** Decodes "unwritten" professional rules, networking norms, and corporate hierarchies.
-    * *Framework: Albrecht’s (2006) SQ Model*
-
-### 🛠️ Technical Implementation & Steerability
-* **Behavioral Alignment:** Applied **Nudge Theory** to bridge the "intention-action gap," converting student goals into structured, measurable professional output.
-* **Model Steerability:** Utilized advanced prompt engineering to move the model from a passive chat interface to an **active, intentional mentor persona**.
-* **Responsible AI:** Implemented layered safeguards and ethical deployment frameworks (Bazigos, 2025) to ensure human-centric oversight and user empowerment.
-
-### 📂 Project Deliverables
-For a complete breakdown of the system architecture, behavioral logic, and psychological research (Stanford, Columbia, etc.):
-👉 **[View the TARA Model Deck (PDF)](TARA%20CHATBOT%20DECK%202026.pdf)**
+* **EQ (Emotional Intelligence):** Identifies sentiment to mitigate burnout and imposter syndrome.
+* **CQ (Cultural Intelligence):** Adapts communication for diverse/international professional transitions.
+* **SQ (Social Intelligence):** Decodes the "unwritten rules" of networking and office politics.
 
 ---
 
-### 🚀 Why this project sets me apart
-* **For Anthropic/OpenAI (Alignment):** Demonstrates the ability to "align" a model to a complex set of human values and psychological principles—essential for Constitutional AI.
-* **For Google/Meta (Product UX):** Shows a deep understanding of **Human-Computer Interaction** by using Nudge Theory to drive real-world user outcomes.
-* **For Roblox/Figma (Specialization):** Proves I can take a general-purpose model and engineer a highly specialized, reliable agent for a niche, high-value audience.
+### 🛠️ Technical Strategy
+* **Model Steerability:** Advanced system-prompting to maintain a sophisticated "Expert Mentor" persona without character drift.
+* **The Nudge Engine:** Integrated **Behavioral Science** triggers to bridge the "intention-action gap" for users.
+* **Socio-Technical Alignment:** Engineered to maintain high-fidelity guidance across complex, high-stakes career transitions.
+
+---
+
+### 🚀 Experience TARA
+| **Live Demo** | **Technical Strategy** |
+| :--- | :--- |
+| [**Launch on Poe**](https://poe.com/BotVAUX3U0KK4) | [**View Model Deck (PDF)**](TARA%20CHATBOT%20DECK%202026.pdf) |
+
+---
+
+### 🏆 Industry Value
+* **Anthropic / OpenAI:** Proven ability to **align** LLMs to complex human social norms and psychological frameworks.
+* **Meta / Google:** Expertise in **Human-Centric AI** and using behavioral mechanics to drive user growth.
+* **Roblox / Figma:** Demonstrated skill in engineering **High-Fidelity Agents** for specialized, high-value audiences.
+
+---
