@@ -11,5 +11,5 @@ Prmpt Engineering, LLM auditing, AI tools - Gamma, Poe, Behavioural Science
 
 ## **Project Deliverables**
 
-* **[Model Deck (PDF)](https://github.com/Prashasti08/TARA-GenAI-Mentorship-Chatbot/blob/f504ad49186d1b527edf0ebfc40726f3e187814e/TARA%20Scalable%20genAI%20Mentorship.pdf)**
+* **[Model Deck (PDF)](https://github.com/Prashasti08/TARA-GenAI-Mentorship-Chatbot/blob/b1c08683b2b9527c5c3a310435da60d0d753c09e/TARA%20CHATBOT%20DECK%202026.pdf)**
   
