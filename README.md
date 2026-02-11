@@ -10,8 +10,7 @@ I used **I/O Psychology** to build an LLM persona that is aligned across three d
 * **CQ (Cultural):** Adaptable guidance for diverse/international professional transitions.
 * **SQ (Social):** Decodes "unwritten rules" of networking and office politics.
 
-```
-graph TD
+```graph TD
     A[User Input] --> B[Intent & Sentiment Detection]
     B --> C{Triple-Intelligence Layer}
     C -->|EQ/CQ/SQ Alignment| D{Safety Filter}
@@ -21,7 +20,8 @@ graph TD
     
     F --> G[Actionable Aligned Response]
     E --> H[End User Loop]
-    G --> H```
+    G --> H
+```
 
 ---
 
