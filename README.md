@@ -5,8 +5,12 @@
 Most AI mentors are **socially blind**. They provide generic, "flat" advice that ignores a user's emotional state, cultural background, and workplace social nuances.
 
 ### 💡 The Solution: Triple-Intelligence (IQ³)
+I used **I/O Psychology** to build an LLM persona that is aligned across three dimensions:
+* **EQ (Emotional):** Identifies sentiment to mitigate burnout/imposter syndrome.
+* **CQ (Cultural):** Adaptable guidance for diverse/international professional transitions.
+* **SQ (Social):** Decodes "unwritten rules" of networking and office politics.
 
-'''
+```
 graph TD
     A[User Input] --> B[Intent & Sentiment Detection]
     B --> C{Triple-Intelligence Layer}
@@ -18,12 +22,7 @@ graph TD
     F --> G[Actionable Aligned Response]
     E --> H[End User Loop]
     G --> H
-'''
-
-I used **I/O Psychology** to build an LLM persona that is aligned across three dimensions:
-* **EQ (Emotional):** Identifies sentiment to mitigate burnout/imposter syndrome.
-* **CQ (Cultural):** Adaptable guidance for diverse/international professional transitions.
-* **SQ (Social):** Decodes "unwritten rules" of networking and office politics.
+```
 
 ---
 
