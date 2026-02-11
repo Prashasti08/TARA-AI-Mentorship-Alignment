@@ -18,8 +18,7 @@ graph TD
     F --> G[Actionable Aligned Response]
     E --> H[End User Loop]
     G --> H
-
-    '''
+'''
 
 I used **I/O Psychology** to build an LLM persona that is aligned across three dimensions:
 * **EQ (Emotional):** Identifies sentiment to mitigate burnout/imposter syndrome.
