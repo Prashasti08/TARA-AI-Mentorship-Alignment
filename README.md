@@ -5,7 +5,6 @@
 Most AI mentors are **socially blind**. They provide generic, "flat" advice that ignores a user's emotional state, cultural background, and workplace social nuances.
 
 ### 💡 The Solution: Triple-Intelligence (IQ³)
-```mermaid
 graph TD
     User((User Input)) --> Intent[Intent & Sentiment Detection]
     
