@@ -11,5 +11,5 @@ Prmpt Engineering, LLM auditing, AI tools - Gamma, Poe, Behavioural Science
 
 ## **Project Deliverables**
 
-* **[Model Deck (PDF)](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf)**
+* **[Model Deck (PDF)](https://github.com/Prashasti08/TARA-GenAI-Mentorship-Chatbot/blob/f504ad49186d1b527edf0ebfc40726f3e187814e/TARA%20Scalable%20genAI%20Mentorship.pdf)**
   
