@@ -13,23 +13,29 @@ I used **I/O Psychology** as an engineering framework to build an LLM persona th
 
 ---
 
+### 🛡️ Safety & Knowledge Integration
+Unlike generic bots, TARA is grounded in a verified **Socio-Technical Knowledge Base**:
+* **Institutional Alignment:** Integrated resources from **NYU, Columbia, and TC Student Services** for accurate academic navigation.
+* **Mental Health Guardrails:** Engineered to recognize "Therapy" requests. TARA maintains a strict boundary—refusing clinical roles and redirecting users to professional mental health resources.
+* **Evidence-Based:** Grounded in validated I/O Psych models to ensure guidance is professional, not just conversational.
+
+---
+
 ### 🛠️ Technical Strategy
 * **Model Steerability:** Advanced system-prompting to maintain a sophisticated "Expert Mentor" persona without character drift.
-* **The Nudge Engine:** Integrated **Behavioral Science** triggers to bridge the "intention-action gap" for users.
-* **Socio-Technical Alignment:** Engineered to maintain high-fidelity guidance across complex, high-stakes career transitions.
+* **The Nudge Engine:** Integrated **Behavioral Science** triggers to bridge the "intention-action gap."
+* **Alignment:** Specifically tuned for **Socio-Technical Safety**, ensuring helpfulness while maintaining strict ethical boundaries.
 
 ---
 
 ### 🚀 Experience TARA
 | **Live Demo** | **Technical Strategy** |
 | :--- | :--- |
-| [**Launch on Poe**](https://poe.com/BotVAUX3U0KK4) | [**View Model Deck (PDF)**](TARA%20CHATBOT%20DECK%202026.pdf) |
+| [**Launch on Poe**]([https://poe.com/BotVAUX3U0KK4](https://poe.com/chat/56v2zqe594wqcjdv2o)) | [**View Model Deck (PDF)**](TARA%20CHATBOT%20DECK%202026.pdf) |
 
 ---
 
 ### 🏆 Industry Value
-* **Anthropic / OpenAI:** Proven ability to **align** LLMs to complex human social norms and psychological frameworks.
-* **Meta / Google:** Expertise in **Human-Centric AI** and using behavioral mechanics to drive user growth.
-* **Roblox / Figma:** Demonstrated skill in engineering **High-Fidelity Agents** for specialized, high-value audiences.
-
----
+* **Anthropic / OpenAI:** Expertise in **AI Safety** and **Alignment** (handling the "Therapist" boundary is key).
+* **Meta / Google:** Strong focus on **Human-Centric AI** and verified knowledge grounding.
+* **Roblox / Figma:** Demonstrated skill in engineering **Specialized Agents** with complex guardrails.
