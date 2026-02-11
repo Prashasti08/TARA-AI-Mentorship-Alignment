@@ -21,8 +21,7 @@ graph TD
     
     F --> G[Actionable Aligned Response]
     E --> H[End User Loop]
-    G --> H
-```
+    G --> H```
 
 ---
 
